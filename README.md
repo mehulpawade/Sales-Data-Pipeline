@@ -24,7 +24,8 @@ This project showcases an interactive Power BI dashboard developed to analyze Mo
 ## 🛠️ Tools & Technologies
 - Power BI
 - Data Analysis
-- Data Visualization
+- Python
+- SQL
 
 ## 🎯 Objective
 To transform raw sales data into meaningful insights and support data-driven decision-making through an interactive and user-friendly dashboad.
